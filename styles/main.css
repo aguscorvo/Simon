@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #dedede;
+  background: #e7e0e0;
   display: flex;
   align-items: center;
   height: 100vh;
@@ -34,36 +34,36 @@ body {
   float: left;
 }
 
-.celeste {
-  background: #22a6b3;
+.amarillo {
+  background: #f5e400;
 }
 
-.celeste.light {
-  background: #7ed6df;
+.amarillo.light {
+  background: #f5f377;
 }
 
-.violeta {
-  background: #be2edd;
+.azul {
+  background: #182de7;
 }
 
-.violeta.light {
-  background: #e056fd;
+.azul.light {
+  background: #1860e7;
 }
 
-.naranja {
-  background: #f0932b;
+.rojo {
+  background: #ce1f19;
 }
 
-.naranja.light {
-  background: #ffbe76;
+.rojo.light {
+  background: #f65751;
 }
 
 .verde {
-  background: #6ab04c;
+  background: #44991f;
 }
 
 .verde.light {
-  background: #badc58;
+  background: #68eb30;
 }
 
 .btn-start {
